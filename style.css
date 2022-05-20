@@ -1,0 +1,418 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.container-cab {
+    position: absolute;
+    width: 324px;
+    height: 84px;
+    left: 537px;
+    top: 16px;
+    
+
+}
+
+
+.cabecalho {
+    position: absolute;
+width: 1440px;
+height: 117px;
+left: 0px;
+top: 0px;
+background: #FFC107;
+
+    text-align: center;
+}
+    
+
+.container {
+    position: absolute;
+width: 1440px;
+height: 48px;
+left: 0px;
+top: 117px;
+background: #FFA000;
+box-shadow:inset  0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+#menu ul{
+    width: 1325px;
+    list-style-type: none;
+    list-style: none;
+    text-align: center;
+    
+}
+a {
+    text-decoration: none;
+    color:#FDFDFD;
+}
+#menu ul li {
+    display:inline;
+    list-style-type: none;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat';
+    text-transform: lowercase;
+    margin: 20px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-transform: lowercase;
+}
+#menu ul li0 {
+    position: absolute;
+width: 57px;
+height: 24px;
+left: 550px;
+top: 129px;
+
+}
+
+#menu ul li1 {
+    
+position: absolute;
+width: 84px;
+height: 24px;
+left: 665px;
+top: 129px;
+}
+
+#menu ul li2 {
+    position: absolute;
+width: 82px;
+height: 24px;
+left: 807px;
+top: 129px;
+}
+
+.button-1 {
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 95px;
+    height: 31px;
+    left: 120px;
+    top: 697px;
+    
+    border: 1px solid #176902;
+    border-radius: 47px;    
+}
+
+.button-2 {
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 196px;
+    height: 31px;
+    left: 234px;
+    top: 697px;
+    
+    border: 1px solid #176902;
+    border-radius: 47px;    
+}
+
+.primeirobody {
+    position: absolute;
+width: 462px;
+height: 61px;
+left: 120px;
+top: 272px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+text-transform: lowercase;
+
+color: #FFA000;
+
+}
+
+.receita {
+    position: absolute;
+width: 592px;
+height: 480px;
+left: 128px;
+top: 786px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-transform: lowercase;
+
+color: #000000;
+
+}
+h3 {
+    font-family: 'Montserrat';
+    font-size:30px;
+
+}
+h2 {
+    font-family: 'Montserrat';
+    font-size: 30px;
+}
+
+
+
+p {
+    margin:0;
+}
+.fotodorisoto {
+    position: absolute;
+width: 592px;
+height: 311px;
+left: 120px;
+top: 361px;
+
+background: #C4C4C4;
+}
+
+.preparo {
+    position: absolute;
+width: 592px;
+height: 576px;
+left: 128px;
+top: 1655px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-transform: lowercase;
+justify-content: center;
+
+color: #000000;
+
+}
+
+/*.moqueca {
+    position: absolute;
+width: 345px;
+height: 342px;
+left: 904px;
+top: 407px;
+position: absolute;
+width: 345px;
+height: 342px;
+left: 904px;
+top: 407px;
+
+background: url(moqueca.png)
+} */
+.container-moqueca {
+position: absolute;
+width: 345px;
+height: 411px;
+left: 904px;
+top: 407px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.legendamoqueca {
+position: justify;
+width: 350px;
+height: 64px;
+left: 845px;
+top: 768px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+text-align: center;
+text-transform: lowercase;
+
+color: #000000;
+
+}
+
+.container-bolo {
+    position: absolute;
+width: 345px;
+height: 411px;
+left: 904px;
+top: 873px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.legenda-bolo {
+    position: justify;
+width: 350px;
+height: 32px;
+left: 980px;
+top: 1227px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+text-transform: lowercase;
+
+color: #000000;
+
+}
+.container-tabule {
+    position: absolute;
+width: 345px;
+height: 411px;
+left: 907px;
+top: 1374px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.legenda-tabule {
+    position: justify;
+width: 350px;
+height: 32px;
+left: 960px;
+top: 1733px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+text-transform: lowercase;
+
+color: #000000;
+
+}
+
+
+
+
+.bolodebanana {
+    position: absolute;
+width: 345px;
+height: 342px;
+left: 904px;
+top: 873px;
+
+}
+
+.tabule {
+    position: absolute;
+width: 345px;
+height: 342px;
+left: 907px;
+top: 1374px;
+
+}
+
+
+
+.video {
+    position: absolute;
+width: 580px;
+height: 317px;
+left: 120px;
+top: 1303px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2))
+}
+
+
+
+
+
+
+body {
+    font-family: 'Montserrat' 
+}
+
+
+h1 {
+    position: absolute;
+width: 462px;
+height: 61px;
+left: 120px;
+top: 272px;
+margin-top: 10px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+text-transform: lowercase;
+
+color: #FFA000;
+
+}
+
+.receitassubtitle {
+    position: absolute;
+width: 321px;
+height: 37px;
+left: 904px;
+top: 343px;
+margin-bottom: 8px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+text-transform: lowercase;
+
+color: #FFA000;
+}
+
+
+.footer {
+    position: absolute;
+width: 1440px;
+font-weight: 700px;
+
+height: 119px;
+left: 0px;
+top: 2397px;
+background: #FFC107;
+}
+
+.footerfrase {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+position: absolute;
+width: 464px;
+height: 22px;
+left: 368px;
+top: 2448px;
+color: #FFFFFF;
+}
+.footerimg {
+    position: absolute;
+width: 324px;
+height: 84px;
+left: 6px;
+top: 2415px;
+}
+
+@media only screen and (max-width: 480px) {
+    
+}
